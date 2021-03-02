@@ -7,15 +7,14 @@
 - Exam:
 <br><br>
 
-![](docImages/exam.jpeg)
-
+ <img src="publicdocImages/exam.jpeg" alt="Logo">
 
 
 <br>
 - Questions
 <br><br>
 
-public_puth('docImages/exam&Question.jpeg')
+![](docImages/exam&Question.jpeg)
 
 
 <br>
