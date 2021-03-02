@@ -7,7 +7,7 @@
 - Exam:
 <br><br>
 
- <img src="publicdocImages/exam.jpeg" alt="Logo">
+ <img src="public/docImages/exam.jpeg" alt="Logo">
 
 
 <br>
