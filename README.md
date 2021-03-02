@@ -15,7 +15,7 @@
 - Questions
 <br><br>
 
-![](docImages/exam&Question.jpeg)
+public_puth('docImages/exam&Question.jpeg')
 
 
 <br>
